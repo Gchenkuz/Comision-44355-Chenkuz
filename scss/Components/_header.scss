@@ -1,0 +1,35 @@
+header h1{
+    font-size: 75px;
+    color: rgb(238, 123, 94);
+    font-style: unset;
+    display: flex;
+    justify-content: center;
+    width: 75%;
+height: 75%;
+flex-wrap: wrap;
+min-width: 300px;
+margin-bottom: 0px;
+
+}
+
+.encabe{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+min-width: 250px;
+}
+.lisss{
+    display: flex;
+    justify-content: right;
+    flex-direction: column;
+    
+}
+header nav li{
+    text-decoration: none;
+    list-style: none;
+    font-size: 20px;
+    font-style: none;   
+    flex-wrap: wrap;
+    min-width: 250px;
+    
+    }

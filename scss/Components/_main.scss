@@ -1,0 +1,107 @@
+.flex-1{
+    display: flex;  
+    justify-content: center;
+    flex-wrap: wrap;
+    min-width: 250px;
+    }
+    .producto{display: flex;
+        justify-content: center;
+    flex-wrap: wrap;
+    min-width: 250px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    }
+    .prods{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    min-width: 250px;
+        }
+        
+        .prods2{
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+    min-width: 250px;
+            }
+    
+            .prods3 {
+                display: flex;
+                justify-content: center;
+                flex-wrap: wrap;
+    min-width: 250px;
+                }
+    
+    .transition div {
+        margin: 0 auto;
+        width: 130px;
+        max-height: 100px;
+        background-color: rgba(169, 236, 208, 0.897);
+        border-radius: 8px;
+        padding: 8px;
+        margin-bottom: 4px;
+        transition-duration: 1s;
+        display: flex;
+        justify-content: center;
+    
+    }
+    .transition h2{ 
+        font-size: 45px;
+        color: rgb(196, 72, 41);
+        font-style: unset;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    height: 100%;
+    }
+    .transition div:hover {
+        width: 20%;
+    }
+    
+    
+    
+    section div{
+        display: inline-block;
+        text-align: center;
+    margin: 2px;
+    border: 2px solid black;
+    padding: 10px;
+    }
+    
+    section div img{
+        width: 255px;
+        height: 255px;      
+    
+    
+    }
+    section div h2{
+        color: rgb(238, 123, 94);
+        font-size: 50px;
+        margin: 20px;
+        padding: 4px left; 
+        display: inline-block;
+    }
+    section div p{
+        font-size: x-large;
+        color: darkslategrey;
+    }   
+    
+    section div h3{
+        font-size: 40px;
+        color: rgb(238, 123, 94);
+        padding: 10px;
+    }
+    
+    .benef{
+        font-size: 30px;
+    
+    }
+    
+    section h4{
+        font-size: 44px;
+    
+    }
+    
+    .toto{
+        font-size: 25px;
+    }
